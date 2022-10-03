@@ -1,0 +1,23 @@
+nav{
+    background-color: grey;
+
+}
+.nav-item{
+    font-size: small ;
+}
+ .nav-item a{ color: white;
+
+}
+#boki{
+    color: white;
+}
+#boca a{
+    color: green;
+}
+.ico{
+    width: 100px;
+    height: 100%; ;
+}
+
+
+
